@@ -1,0 +1,35 @@
+body {
+    background-color: #2962ff;
+}
+input {
+    margin-top: 50px;
+    margin-left: 290px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 395px;
+}
+#output {
+    margin-top: 45px;
+    width: 100px;
+    background-color: lightgreen;
+    margin-left: 400px;
+
+}
+#btn {
+    width:350px ;
+    height: 80px;
+    color: #fff;
+    background-color: blue;
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 465px;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+    margin-top: 50px;
+}
+
